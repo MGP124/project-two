@@ -1,0 +1,12 @@
+[
+  {
+    "userName":"Mark",
+    "email": "mark@me.com",
+    "phoneNumber": "12345678",
+    "password": "987987987",
+    "confirmPassword": "1234",
+    "dateJoined":"May 12, 2021",
+    "userCommunity": "Cranston",
+    "itemCommunity": "Panorama",
+  }
+]

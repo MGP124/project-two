@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "609b2fc304156c3ae883c171"
+  },
+  "name": "Peas",
+  "size": "16oz",
+  "quantity": "6",
+  "dateExpiry": "May 31, 2022",
+  "datePosted": "May 11, 2021"
+},{
+  "_id": {
+    "$oid": "609b34a2b15a5728a01c956e"
+  },
+  "name": "Corn",
+  "size": "16oz",
+  "quantity": 12,
+  "dateExpiry": {
+    "$date": "2021-08-24T06:00:00Z"
+  },
+  "datePosted": {
+    "$date": "2021-05-11T06:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "609bdaf61787c35454e78590"
+  },
+  "name": "Pork and Beans",
+  "size": "bag",
+  "quantity": 5,
+  "dateExpiry": {
+    "$date": "2021-08-19T06:00:00Z"
+  },
+  "datePosted": {
+    "$date": "2021-05-11T06:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "609d485232b3a33918d22d15"
+  },
+  "name": "Huggies Diapers",
+  "size": "Box",
+  "quantity": 144,
+  "dateExpiry": {
+    "$date": "2021-09-23T06:00:00Z"
+  },
+  "datePosted": {
+    "$date": "2021-05-11T06:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "609d492432b3a33918d22d1a"
+  },
+  "name": "Pampers Diapers",
+  "size": "Box",
+  "quantity": 144,
+  "dateExpiry": {
+    "$date": "2021-09-23T06:00:00Z"
+  },
+  "datePosted": {
+    "$date": "2021-05-11T06:00:00Z"
+  }
+}]
